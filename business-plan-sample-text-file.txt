@@ -19,3 +19,17 @@ Test comment
 -->
 
 Business plans are decision-making tools. There is no fixed content for a business plan. Rather, the content and format of the business plan is determined by the goals and audience. A business plan represents all aspects of business planning process declaring vision and strategy alongside sub-plans to cover marketing, finance, operations, human resources as well as a legal plan, when required. A business plan is a summary of those disciplinary plans.
+
+<!---
+<2014-07-22 Tue> 
+<Denis Drobinin> 
+<refs #954>
+Awesome chat
+-->
+<!---
+<2014-03-22 Sat>
+<Athanasios Chatzoglou>
+<refs #884>
+In that case we would have to re-structure the whole chapter. 
+-->
+Preparing a business plan draws on a wide range of knowledge from many different business disciplines: finance, human resource management, intellectual property management, supply chain management, operations management, and marketing, among others.
