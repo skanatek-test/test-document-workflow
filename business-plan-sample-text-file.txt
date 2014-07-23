@@ -1,13 +1,13 @@
 A business plan is a formal statement of a set of business goals, the reasons they are believed attainable, and the plan for reaching those goals. It may also contain background information about the organization or team attempting to reach those goals.
 
 <!---
-<2014-06-22 Tue> 
+<2014-07-22 Tue> 
 <Athanasios Chatzoglou> 
 <refs #954>
 That's an awesome comment~
 -->
 
-Business plans may also target changes in(how do you deal with conflicts in git?) perception and branding by the customer, client, taxpayer, or larger community. When the existing business is to assume a major change or when planning a new venture, a 3 to 5 year business plan is required, since investors will look for their annual return in that timeframe.
+Business plans may also target changes in(how do you deal with conflicts in git?: at this point i think the answer you want is manually! you pull then you push the resolved file) perception and branding by the customer, client, taxpayer, or larger community. When the existing business is to assume a major change or when planning a new venture, a 3 to 5 year business plan is required, since investors will look for their annual return in that timeframe.
 
 Business plans may be internally or(how do you deal with conflicts in git?) externally focused. Externally focused plans target goals that are important to external stakeholders, particularly financial stakeholders.
 
