@@ -7,9 +7,9 @@ A business plan is a formal statement of a set of business goals, the reasons th
 That's an awesome comment~
 -->
 
-Business plans may also target changes in perception and branding by the customer, client, taxpayer, or larger community. When the existing business is to assume a major change or when planning a new venture, a 3 to 5 year business plan is required, since investors will look for their annual return in that timeframe.
+Business plans may also target changes in(how do you deal with conflicts in git?) perception and branding by the customer, client, taxpayer, or larger community. When the existing business is to assume a major change or when planning a new venture, a 3 to 5 year business plan is required, since investors will look for their annual return in that timeframe.
 
-Business plans may be internally or externally focused. Externally focused plans target goals that are important to external stakeholders, particularly financial stakeholders.
+Business plans may be internally or(how do you deal with conflicts in git?) externally focused. Externally focused plans target goals that are important to external stakeholders, particularly financial stakeholders.
 
 <!---
 <2014-07-22 Tue> 
@@ -18,7 +18,7 @@ Business plans may be internally or externally focused. Externally focused plans
 Test comment 
 -->
 
-Business plans are decision-making tools. There is no fixed content for a business plan. Rather, the content and format of the business plan is determined by the goals and audience. A business plan represents all aspects of business planning process declaring vision and strategy alongside sub-plans to cover marketing, finance, operations, human resources as well as a legal plan, when required. A business plan is a summary of those disciplinary plans.
+Business plans are decision-making tools. There is no fixed content for a (how do you deal with conflicts in git?)business plan. Rather, the content and format of the business plan is determined by the goals and audience. A business plan represents all aspects of business planning process declaring vision and strategy alongside sub-plans to cover marketing, finance, operations, human resources as well as a legal plan, when required. A business plan is a summary of those disciplinary plans.
 
 <!---
 <2014-07-22 Tue> 
@@ -32,4 +32,4 @@ Awesome chat
 <refs #884>
 In that case we would have to re-structure the whole chapter. 
 -->
-Preparing a business plan draws on a wide range of knowledge from many different business disciplines: finance, human resource management, intellectual property management, supply chain management, operations management, and marketing, among others.
+Preparing a business plan draws on a wide range of knowledge from many different business disciplines: finance, (how do you deal with conflicts in git?)human resource management, intellectual property management, supply chain management, operations management, and marketing, among others.
