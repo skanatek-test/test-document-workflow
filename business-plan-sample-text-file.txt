@@ -32,4 +32,4 @@ Awesome chat
 <refs #884>
 In that case we would have to re-structure the whole chapter. 
 -->
-Preparing (hello world) a business plan draws on a wide range of knowledge and experience from many different business disciplines: finance, (how do you deal with conflicts in git?)human resource management, intellectual property management, supply chain management, operations management, and marketing,information technology among (here is a conflict) others
+Preparing (hello world) a business plan draws on a wide range of knowledge and experience from many different business disciplines: finance, (how do you deal with conflicts in git?)human resource management, intellectual property management, supply chain management, operations management, and marketing,information technology among (here is a conflict) others and design aesthetics!! :D 
